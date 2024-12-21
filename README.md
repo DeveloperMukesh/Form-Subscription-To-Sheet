@@ -11,7 +11,7 @@ I’m excited to share my new project—a Form Submission App built using Google
 ➡️ Secure and scalable solution leveraging Google’s infrastructure 🔒
 ➡️ Open-source and easily customizable for various applications 💻
 
-💡 Check out the project on GitHub: (Add your GitHub link here)
+💡 Check out the project on GitHub:
 
 I’d love your feedback and suggestions on how to improve or expand this app! 🌟
 
